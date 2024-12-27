@@ -1,7 +1,5 @@
-import logo from "./logo.svg";
-import "./App.css";
-import ThermalPrinter from "./ThermalPrinter";
-
+import './App.css';
+import ThermalPrinter from './ThermalPrinter';
 function App() {
   return (
     <div className="App">
